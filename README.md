@@ -1,8 +1,5 @@
 # Helios Wellness
 
-===
-
-## Helios Wellness: <a href="https://helios-wellness.herokuapp.com" target="_blank">Site Here</a>
 <a href="https://virtual-book-club-app.herokuapp.com" target="_blank"><img src="https://github.com/laurasimsdev/laurasimsdev/raw/main/img/image1.png" /></a>
 
 ---
@@ -27,8 +24,8 @@ Node, Express, MongoDB, Mongoose, Bcrypt, Connect-Mongo, Dotenv, EJS, Express-fl
 
 ## Future Potential Improvements
 
--Add sorting features
--Add graphical summaries
--Add photo option to journal
+- Add sorting features
+- Add graphical summaries
+- Add photo option to journal
 
 ---
