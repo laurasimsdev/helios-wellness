@@ -29,3 +29,4 @@ Node, Express, MongoDB, Mongoose, Bcrypt, Connect-Mongo, Dotenv, EJS, Express-fl
 - Add photo option to journal
 
 ---
+
