@@ -1,6 +1,6 @@
 # Helios Wellness
 
-<a href="https://virtual-book-club-app.herokuapp.com" target="_blank"><img src="https://github.com/laurasimsdev/laurasimsdev/raw/main/img/image1.png" /></a>
+<a href="https://helios-wellness.herokuapp.com" target="_blank"><img src="https://github.com/laurasimsdev/laurasimsdev/raw/main/img/image1.png" /></a>
 
 ---
 
