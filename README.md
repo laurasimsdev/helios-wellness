@@ -2,6 +2,11 @@
 
 ===
 
+## Helios Wellness: <a href="https://helios-wellness.herokuapp.com" target="_blank">Site Here</a>
+<a href="https://virtual-book-club-app.herokuapp.com" target="_blank"><img src="https://github.com/laurasimsdev/laurasimsdev/raw/main/img/image1.png" /></a>
+
+---
+
 ## Introduction
 
 This wellness journal is built using the MVC Architecture. This full stack application has authentication to enable each user to login and have a personalized experience. The user will be able to input their daily notes, mood, exercise, sleep duration, and water intake. User can monitor their progress overtime.
@@ -14,9 +19,9 @@ Motivation - Tracking trends in personal mental health to find patterns and iden
 
 ---
 
-## Packages/Dependencies used
+## Tech used
 
-bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mongodb, mongoose, morgan, nodemon, passport, passport-local, validator
+Node, Express, MongoDB, Mongoose, Bcrypt, Connect-Mongo, Dotenv, EJS, Express-flash, Express-session, Morgan, Nodemon, Passport, Passport-local, Validator
 
 ---
 
