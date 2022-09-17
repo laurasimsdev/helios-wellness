@@ -4,6 +4,7 @@ body {
   margin: 0 20px;
   background-image: url(./backgroundphotos/bowl-of-succulents.jpg);
   background-size: cover;
+  accent-color: rgb(17, 77, 60);
 }
 
 h1 {
