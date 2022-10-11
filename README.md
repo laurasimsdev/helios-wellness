@@ -1,7 +1,7 @@
 # Helios Wellness
 
 <a href="https://helios-wellness.herokuapp.com" target="_blank"><img src="https://github.com/laurasimsdev/laurasimsdev/raw/main/img/image1.png" /></a>
-
+<a href="https://helios-wellness.herokuapp.com" target="_blank">Site link</a>
 ---
 
 ## Introduction
