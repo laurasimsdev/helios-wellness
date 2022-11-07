@@ -29,3 +29,12 @@ Node, Express, MongoDB, Mongoose, Bcrypt, Connect-Mongo, Dotenv, EJS, Express-fl
 - Add photo option to journal
 
 ---
+
+## Examples:
+Take a look at these couple examples that I have in my own portfolio:
+
+**Art Circle:** https://github.com/laurasimsdev/art-circle
+
+**Virtual Book Club:** https://github.com/laurasimsdev/virtual-book-club
+
+**Zen Notes:** https://github.com/laurasimsdev/zen-notes
