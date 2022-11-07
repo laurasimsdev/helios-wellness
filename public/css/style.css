@@ -1,7 +1,7 @@
 body {
   min-height: 100vh;
   font-family: "Roboto", sans-serif;
-  margin: 0 20px;
+  margin: 0;
   background-image: url(./backgroundphotos/bowl-of-succulents.jpg);
   background-size: cover;
   accent-color: rgb(17, 77, 60);
@@ -160,4 +160,41 @@ button {
   border-radius: 40px;
   margin-top: 15px;
   border: 1px solid rgb(35, 35, 35);
+}
+
+header {
+  height: 70px;
+  background-color: rgba(0, 0, 0, 0.75);
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.main-title {
+  margin: 0;
+  padding: 0 20px;
+}
+
+main {
+  padding: 0 20px;
+}
+
+.main-tagline {
+  padding: 0 20px;
+  margin: 0;
+}
+
+@media screen and (max-width: 850px) {
+  h1 {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  header {
+    flex-direction: column;
+    justify-content: center;
+  }
 }
