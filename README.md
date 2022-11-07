@@ -30,8 +30,8 @@ Node, Express, MongoDB, Mongoose, Bcrypt, Connect-Mongo, Dotenv, EJS, Express-fl
 
 ---
 
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+## More Projects:
+Take a look at these additional projects in my portfolio:
 
 **Art Circle:** https://github.com/laurasimsdev/art-circle
 
